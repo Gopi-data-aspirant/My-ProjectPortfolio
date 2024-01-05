@@ -5,7 +5,7 @@ This project analyzes diwali sales data from e-commerce website to identify sale
 
 Pre-Requisites : 
 
-•	Python3
+•	Python3  
 
 •	Pandas and Numpy
 
